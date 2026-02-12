@@ -1,10 +1,9 @@
 ---
 name: sensing-the-body
-description: Exercises for developing physical awareness as the foundation for presence
-  and self-remembering.
+description: Exercises for developing physical awareness as the foundation for presence and self-remembering.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - sensing-the-body
