@@ -3,8 +3,8 @@ name: sensing-the-body
 description: Exercises for developing physical awareness as the foundation for presence and self-remembering.
 license: MIT
 metadata:
-  version: 1.0.4943
   author: sethmblack
+  version: 1.0.4944
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sensing-the-body
